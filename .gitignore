@@ -1,0 +1,13 @@
+data/
+*.h5ad
+*.gtf.gz
+*.mtx.gz
+*.tsv.gz
+*.loom
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+archive/

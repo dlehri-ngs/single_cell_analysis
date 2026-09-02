@@ -1,0 +1,19 @@
+name: sc-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - scanpy
+  - scvi-tools
+  - jupyterlab
+  - leidenalg
+  - python-igraph
+  - scikit-misc
+  - scikit-image
+  - pip
+  - pip:
+      - infercnvpy
+      - pyreadr
+      - gtfparse
+      - gget
